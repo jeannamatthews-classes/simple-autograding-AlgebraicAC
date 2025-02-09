@@ -1,0 +1,1 @@
+I've already used GitHub before - it's where I host my personal website - so I was familiar with pretty much all of this material. I'm admittedly not really familiar with Git on its own - I just use GitHub, I don't really use Git.
